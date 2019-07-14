@@ -1,6 +1,6 @@
 # README
 
-此代码仓库收录leetcode、洛谷在线OJ上的题目代码，部分困难难度代码有解析，见[suata的github page]([https://songxiaotong.github.io](https://songxiaotong.github.io/))
+此代码仓库收录leetcode、洛谷在线OJ上的题目代码，部分困难难度代码有解析，见[suata的github page](https://songxiaotong.github.io](https://songxiaotong.github.io/)
 
 ## 目录
 
